@@ -1,1 +1,1 @@
-# SportimisvoimalusedTartus
+# Sportimis võimalused Tartus
