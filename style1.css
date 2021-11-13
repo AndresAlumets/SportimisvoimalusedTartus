@@ -1,0 +1,18 @@
+table{
+    color:black;
+    font-size: 20px;
+    padding: 10px;
+    border-spacing: 30px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("tapeet1.jpg");
+    font-weight: 300;
+}
+header{
+    font-weight: 900;
+}
+body{
+    background-image: url("wallpaper.jpg");
+}
+#mees{
+    height: 2000px; 
+}
