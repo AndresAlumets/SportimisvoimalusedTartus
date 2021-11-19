@@ -14,5 +14,9 @@ body{
     background-image: url("wallpaper.jpg");
 }
 #mees{
-    height: 2000px; 
+    height: 500px; 
+}
+
+#tiigi{
+    height: 100px;
 }
