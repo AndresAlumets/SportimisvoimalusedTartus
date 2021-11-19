@@ -1,0 +1,24 @@
+#pilt{
+    height: 200px;
+}
+
+#row:after {
+	content: "";
+	clear: both;
+}
+
+body{
+    padding: 200px 0;
+}
+
+/*#row {
+	display: none;
+}*/
+.column {
+	float: left;
+	width: 25.00%;
+}                   /*see osa on näidisleht 1-*/
+
+body{
+    background-color: lightcyan;
+}
