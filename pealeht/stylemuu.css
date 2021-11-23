@@ -1,24 +1,73 @@
-#pilt{
-    height: 200px;
+*{
+	font-family: 'Meddon', cursive;
+	font-family: 'Work Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
-#row:after {
+#pilt{
+    width: 100%;
+}
+
+header{
+	position: relative;
+	padding-top: 10vh;
+	width: 100%;
+    height: 80px;
+}
+
+.row:after {
 	content: "";
 	clear: both;
+	display: table;
 }
 
-body{
-    padding: 200px 0;
-}
-
-/*#row {
-	display: none;
-}*/
 .column {
 	float: left;
 	width: 25.00%;
+	padding: 5px;
 }                   /*see osa on näidisleht 1-*/
 
+/*see läheb vast üldisesse style css faili*/
 body{
     background-color: lightcyan;
+}
+
+.intro{
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100vh;
+	background-color: black;
+	transition: 1s;
+}
+
+.algtekst{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color:white;
+}
+
+.tekst{
+	position: relative;
+	display: inline-block;
+	bottom: -20px;
+	opacity: 0;
+}
+
+.tekst.active{
+	bottom: 0;
+	opacity: 1;
+	transition: ease-in-out 0.5s;
+}
+
+.tekst.fade{
+	bottom: 150px;
+	opacity: 0;
+	transition: ease-in-out 0.5s;
 }
