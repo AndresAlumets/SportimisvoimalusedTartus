@@ -6,13 +6,18 @@
 	box-sizing: border-box;
 }
 
-#pilt{
-    width: 100%;
+.pilt{
+    /*width: 100%;*/
+	height: 30vh;
+}
+
+.pealkiri{
+	font-size: 5vh;
 }
 
 header{
 	position: relative;
-	padding-top: 10vh;
+	padding-top: 30vh;
 	width: 100%;
     height: 80px;
 }
