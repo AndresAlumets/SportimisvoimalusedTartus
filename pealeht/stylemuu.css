@@ -1,6 +1,4 @@
 *{
-	font-family: 'Meddon', cursive;
-	font-family: 'Work Sans', sans-serif;
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -33,11 +31,6 @@ header{
 	width: 25.00%;
 	padding: 5px;
 }                   /*see osa on näidisleht 1-*/
-
-/*see läheb vast üldisesse style css faili*/
-body{
-    background-color: lightcyan;
-}
 
 .intro{
 	position: fixed;
