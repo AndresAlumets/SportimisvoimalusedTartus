@@ -1,0 +1,74 @@
+
+.section-1{
+    color:white;
+    font-size: 15px;
+	width: 80%;
+	height: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("koss.jpg");
+    font-weight: 300;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* .section-4{
+    color:white;
+    width: 100%;
+	height: 100px;
+	float: left;
+	overflow: auto;
+	z-index: 1000;
+    background-image: url("puit.jpg");
+    margin-left: auto;
+    margin-right: auto;
+} */
+body{
+    background-color: lightcyan;
+}
+h2 {
+    margin-top: 60px;
+    font-size: 30px; 
+}
+.jalka {
+    color:black;
+    font-size: 15px;
+    padding: 145px;
+    border-spacing: 40px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("jalka.jpg");
+    font-weight: 300;
+    margin-left: auto;
+    margin-right: auto;
+}
+.võrk {
+    color:black;
+    font-size: 15px;
+    padding: 145px;
+    border-spacing: 40px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("võrk.jpg");
+    font-weight: 300;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tennis {
+    color:black;
+    font-size: 15px;
+    padding: 145px;
+    border-spacing: 40px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("tennis.jpg");
+    font-weight: 300;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Sulgpall{
+    color:black;
+    font-size: 15px;
+    padding: 145px;
+    border-spacing: 40px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("sulg.jpg");
+    font-weight: 300;
+    margin-left: auto;
+    margin-right: auto;
+}
