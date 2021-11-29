@@ -8,7 +8,7 @@ h2 {
 }
 .ujumine{
     color:white;
-    font-size: 15px;
+    font-size: 20px;
     /* padding: 145px;
     border-spacing: 40px 10px; */
     width: 65%;
@@ -20,17 +20,17 @@ h2 {
 }
 .Sõudmine{
     color:white;
-    font-size: 15px;
+    font-size: 20px;
 	width: 65%;
 	height: 300px;
-   background-image: url("aer.jpg");
+    background-image: url("aer.jpg");
     /* font-weight: 300; */
     margin-left: auto;
     margin-right: auto;
 }
 .section-1{
-    color:white;
-    font-size: 15px;
+    color: black;
+    font-size: 20px;
 	width: 65%;
 	height: 300px;
     background-image: url("rada.jpg");
@@ -40,7 +40,7 @@ h2 {
 }
 .section-2{
     color:black;
-    font-size: 15px;
+    font-size: 20px;
 	width: 65%;
 	height: 300px;
     background-image: url("suusk.jpg");
