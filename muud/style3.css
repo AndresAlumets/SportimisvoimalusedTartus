@@ -7,8 +7,10 @@ h2 {
 .ujumine{
     color:white;
     font-size: 15px;
-    padding: 145px;
-    border-spacing: 40px 10px;
+    /* padding: 145px;
+    border-spacing: 40px 10px; */
+    width: 65%;
+	height: 300px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-image: url("uju.jpg");
     font-weight: 250;
@@ -18,7 +20,7 @@ h2 {
 .Sõudmine{
     color:white;
     font-size: 15px;
-	width: 60%;
+	width: 65%;
 	height: 300px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    background-image: url("aer.jpg");
@@ -29,7 +31,7 @@ h2 {
 .section-1{
     color:white;
     font-size: 15px;
-	width: 80%;
+	width: 65%;
 	height: 300px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-image: url("rada.jpg");
@@ -40,7 +42,7 @@ h2 {
 .section-2{
     color:black;
     font-size: 15px;
-	width: 60%;
+	width: 65%;
 	height: 300px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-image: url("suusk.jpg");
